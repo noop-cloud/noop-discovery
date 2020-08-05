@@ -1,6 +1,6 @@
 {
   "name": "noop-discovery",
-  "version": "1.3.10",
+  "version": "1.3.11",
   "description": "Noop Application Discovery",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
   "homepage": "https://github.com/noop-cloud/noop-discovery#readme",
   "devDependencies": {
     "chai": "^4.1.2",
-    "mocha": "^5.0.4",
+    "mocha": "^8.1.1",
     "sinon": "^4.4.6"
   },
   "dependencies": {
