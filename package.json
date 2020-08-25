@@ -4,6 +4,7 @@
   "description": "Noop Application Discovery",
   "main": "index.js",
   "scripts": {
+    "postversion": "git push && git push --tags",
     "test": "mocha",
     "watch": "mocha --watch"
   },
