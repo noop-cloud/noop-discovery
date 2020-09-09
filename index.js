@@ -1,7 +1,7 @@
 const App = require('./lib/app')
 
 /**
- * 
+ *
  * @param {string} root - root directory to discover
  * @param {boolean} watch - whether or not to watch for changes and emit events
  * @param {function} done - c
