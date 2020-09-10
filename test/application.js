@@ -1,5 +1,5 @@
-const assert = require('chai').assert
-const equal = assert.equal
+// const assert = require('chai').assert
+// const equal = assert.equal
 const Application = require('../lib/application')
 
 /* global describe, it */

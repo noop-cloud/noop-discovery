@@ -8,4 +8,3 @@ discovery('/Users/chloe/Projects/Rearc/noop-spa/', true, (err, app) => {
     console.log(`Component change: ${componentName}`)
   })
 })
-
