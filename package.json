@@ -29,9 +29,7 @@
   },
   "dependencies": {
     "async": "^2.6.3",
-    "chokidar": "^3.4.2",
     "docker-file-parser": "^1.0.5",
-    "ignore": "^5.1.8",
     "minimist": "^1.2.5",
     "node-cron": "^2.0.3"
   }
